@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-actor_2.11/2.4.11/akka-actor_2.11-2.4.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/config/1.3.0/config-1.3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/modules/scala-java8-compat_2.11/0.7.0/scala-java8-compat_2.11-0.7.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-cluster_2.11/2.4.11/akka-cluster_2.11-2.4.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-remote_2.11/2.4.11/akka-remote_2.11-2.4.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-stream_2.11/2.4.11/akka-stream_2.11-2.4.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/ssl-config-akka_2.11/0.2.1/ssl-config-akka_2.11-0.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/ssl-config-core_2.11/0.2.1/ssl-config-core_2.11-0.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/reactivestreams/reactive-streams/1.0.0/reactive-streams-1.0.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-protobuf_2.11/2.4.11/akka-protobuf_2.11-2.4.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/netty/netty/3.10.6.Final/netty-3.10.6.Final.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/uncommons/maths/uncommons-maths/1.2.2a/uncommons-maths-1.2.2a.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/aeron/aeron-driver/1.0.1/aeron-driver-1.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/aeron/aeron-client/1.0.1/aeron-client-1.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/agrona/Agrona/0.5.4/Agrona-0.5.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-cluster-tools_2.11/2.4.11/akka-cluster-tools_2.11-2.4.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/typesafe/akka/akka-cluster-metrics_2.11/2.4.11/akka-cluster-metrics_2.11-2.4.11.jar"/>
+</classpath>
